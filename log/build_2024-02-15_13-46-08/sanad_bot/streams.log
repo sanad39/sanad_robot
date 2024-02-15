@@ -1,0 +1,46 @@
+[0.033s] Invoking command in '/home/sanad/sanad_ws/build/sanad_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sanad/sanad_ws/src/sanad_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sanad/sanad_ws/install/sanad_bot
+[0.106s] -- The C compiler identification is GNU 11.4.0
+[0.169s] -- The CXX compiler identification is GNU 11.4.0
+[0.175s] -- Detecting C compiler ABI info
+[0.215s] -- Detecting C compiler ABI info - done
+[0.219s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.220s] -- Detecting C compile features
+[0.220s] -- Detecting C compile features - done
+[0.222s] -- Detecting CXX compiler ABI info
+[0.268s] -- Detecting CXX compiler ABI info - done
+[0.273s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.273s] -- Detecting CXX compile features
+[0.273s] -- Detecting CXX compile features - done
+[0.275s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.372s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.408s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.425s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.470s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.471s] -- Added test 'lint_cmake' to check CMake code style
+[0.471s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.472s] -- Added test 'xmllint' to check XML markup files
+[0.472s] -- Configuring done
+[0.474s] -- Generating done
+[0.474s] -- Build files have been written to: /home/sanad/sanad_ws/build/sanad_bot
+[0.477s] Invoked command in '/home/sanad/sanad_ws/build/sanad_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sanad/sanad_ws/src/sanad_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sanad/sanad_ws/install/sanad_bot
+[0.478s] Invoking command in '/home/sanad/sanad_ws/build/sanad_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanad/sanad_ws/build/sanad_bot -- -j16 -l16
+[0.500s] Invoked command in '/home/sanad/sanad_ws/build/sanad_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanad/sanad_ws/build/sanad_bot -- -j16 -l16
+[0.516s] Invoking command in '/home/sanad/sanad_ws/build/sanad_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sanad/sanad_ws/build/sanad_bot
+[0.519s] -- Install configuration: ""
+[0.520s] -- Execute custom install script
+[0.520s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/ament_index/resource_index/package_run_dependencies/sanad_bot
+[0.524s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/ament_index/resource_index/parent_prefix_path/sanad_bot
+[0.529s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/environment/ament_prefix_path.sh
+[0.534s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/environment/ament_prefix_path.dsv
+[0.538s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/environment/path.sh
+[0.543s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/environment/path.dsv
+[0.547s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/local_setup.bash
+[0.551s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/local_setup.sh
+[0.555s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/local_setup.zsh
+[0.560s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/local_setup.dsv
+[0.564s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/package.dsv
+[0.568s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/ament_index/resource_index/packages/sanad_bot
+[0.573s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/cmake/sanad_botConfig.cmake
+[0.577s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/cmake/sanad_botConfig-version.cmake
+[0.581s] -- Symlinking: /home/sanad/sanad_ws/install/sanad_bot/share/sanad_bot/package.xml
+[0.587s] Invoked command in '/home/sanad/sanad_ws/build/sanad_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sanad/sanad_ws/build/sanad_bot

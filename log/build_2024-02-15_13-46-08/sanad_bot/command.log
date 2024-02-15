@@ -1,0 +1,6 @@
+Invoking command in '/home/sanad/sanad_ws/build/sanad_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sanad/sanad_ws/src/sanad_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sanad/sanad_ws/install/sanad_bot
+Invoked command in '/home/sanad/sanad_ws/build/sanad_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/sanad/sanad_ws/src/sanad_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sanad/sanad_ws/install/sanad_bot
+Invoking command in '/home/sanad/sanad_ws/build/sanad_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanad/sanad_ws/build/sanad_bot -- -j16 -l16
+Invoked command in '/home/sanad/sanad_ws/build/sanad_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/sanad/sanad_ws/build/sanad_bot -- -j16 -l16
+Invoking command in '/home/sanad/sanad_ws/build/sanad_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sanad/sanad_ws/build/sanad_bot
+Invoked command in '/home/sanad/sanad_ws/build/sanad_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/sanad/sanad_ws/build/sanad_bot
