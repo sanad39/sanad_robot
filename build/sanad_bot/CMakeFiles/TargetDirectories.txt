@@ -1,9 +1,0 @@
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/uninstall.dir
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/sanad_bot_uninstall.dir
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/test.dir
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/edit_cache.dir
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/rebuild_cache.dir
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/list_install_components.dir
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/install.dir
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/install/local.dir
-/home/sanad/sanad_ws/build/sanad_bot/CMakeFiles/install/strip.dir
